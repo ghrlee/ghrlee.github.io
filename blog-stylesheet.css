@@ -9,13 +9,11 @@ h5 {
     text-align: right;
 }
 
-div.transbox
+div.box
 {
   margin: 30px;
   background-color: #FFCCCC;
   border: 1px solid black;
-  opacity:0.8;
-  filter:alpha(opacity=80); /* For IE8 and earlier */
   margin-top: 50px;
     margin-bottom: 50px;
     margin-right: 150px;
