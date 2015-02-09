@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+  <title>Your page title here</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="blog-stylesheet.css">
+</head>
+
+<main>
+  <div class="transbox">
+  <h1><!-- insert title here -->Enumerable Methods<font size="6"><!-- --> </font> <font size="3"> <p class="alignright"><!-- Today's Days -->2/8/2015</p> </h1>
+
+
+  <section>
+    
+    <p>
+      <!-- Paragraph 1 --> You have a collection of date, like a hash or an array. Let's say it's an array. Now you know you're going to enumerate through the collection and execute some code, but you don't also want to also change the collection? Maybe you should consider using the map method. Like each, map will iterate through the collection and execute a block of code. Unlike each, the map method will return a copy of the collection with the block of text executed on it. 
+    </p>
+    <p>
+       <!-- Paragraph 2 -->Example: list_of_names = ['george', 'bernie', 'ian', 'sherry', 'virginia', 'tessie']</p>
+         <p> list2 = list_of_names.map{|name| name.capitalize}</p>
+         <p> puts list_of_names</p>
+
+       
+    </p>
+    <p>
+        <!-- Paragraph 3 --> Neat! We get a copy with some nicely changed elements, and look at that: the original array is still all lower-casey. I think the name of the method here is helpful in visualizing what it does. We are taking a collection with some changes we want to make, so we "map" those changes over the collection. To sum up, returns a new array filled with whatever gets returned by the block each time it runs.
+      <!-- copy and paste as many sections as you want to add paragraphs -->
+  </section>
+</main>
+
