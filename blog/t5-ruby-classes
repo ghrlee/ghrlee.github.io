@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<head>
+  <title>I thought you had class</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="blog-stylesheet.css">
+</head>
+
+<main>
+  <div class="transbox">
+  <h1><!-- insert title here -->I thought YOU had class<font size="6"><!-- --> </font> <font size="3"> <p class="alignright"><!-- Today's Days -->2/16/2015</p> </h1>
+
+
+  <section>
+    
+    <p>
+      <!-- Paragraph 1 -->
+      My attempt at explaining classes will hopefully be pretty fun because I think of this as a chance to get nerdy. Dungeons and dragons nerdy. In Dungeons and Dragons, we have the classic example of character classes. Think of the Dungeons and Dragons archetype classes: The Rogue, the Wizard, the Rastamon... and so on. Rastamon was in lord of the rings movie right? Anyway, what I'm going to attempt to explain is that any thing with an attribute or two, especially a quantifiable class, is a great opportunity for creating a class. 
+    </p>
+    <p>
+       <!-- Paragraph 2 -->
+       If we start to think about just the types of characters we listed above, we can see how their attributes set them apart. Our rogue is cunning, swift, good with a dagger, and probably has charm to spare. The wizard: wise, powerful, and oooooold. Rastamon? I forget what that guy does, all I know is we have a great time whenever he's around
+       
+    </p>
+    <p>
+        <!-- Paragraph 3 --> 
+        What if started to set that up like this:
+        <table>
+   <tr>
+      <td>
+         Content of the first column.
+      </td>
+      <td>
+         Content of the second column.
+      </td>
+   </tr>
+</table>
+      <!-- copy and paste as many sections as you want to add paragraphs -->
+  </section>
+</main>
+
