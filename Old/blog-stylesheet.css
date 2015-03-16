@@ -1,0 +1,38 @@
+
+
+body {
+    background-image: url("https://ppcdn.500px.org/96679297/c83b2716ec4308f530bcb9b273540c3d1c13af11/2048.jpg");
+    background-color: #cccccc;
+}
+
+h5 {
+    text-align: right;
+}
+
+div.box
+{
+  margin: 30px;
+  background-color: #FFCCCC;
+  border: 1px solid black;
+  margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 150px;
+    white-space: normal;
+    padding: 40px;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+div.titlebar
+{
+
+
+
+
+}
