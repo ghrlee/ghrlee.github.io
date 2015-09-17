@@ -27,11 +27,11 @@ header {
 .hero-text-box {
 	position: absolute;
 	width: 1140px;
-	top: 50%;
+	top: 40%;
 	left: 90%;
 	transform: translate(-50%, -50%);
 }
-
+/*
 h1 {
 	margin: 0;
-}
+}*/
