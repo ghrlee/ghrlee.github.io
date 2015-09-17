@@ -24,13 +24,13 @@ header {
 	height: 100vh;
 }
 
-.hero-text-box {
+/*.hero-text-box {
 	position: absolute;
 	width: 700px;
 	top: 40%;
 	left: 70%;
 	transform: translate(-50%, -50%);
-}
+}*/
 
 .logo {
 	height: 100px;
