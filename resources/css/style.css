@@ -17,20 +17,29 @@ html {
 	margin: 0 auto;
 }
 
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7d7d7d), color-stop(9%,#ffffff));*/
+
 header {
-	background-image: url(img/mexico.jpg);
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#7d7d7d+0,ffffff+9 */
+
+  
+	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1) 10%), url(img/mexico.jpg);
 	background-size: cover;
+
 	background-position: center;
+
 	height: 100vh;
+
 }
 
-/*.hero-text-box {
+.hero-text-box {
 	position: absolute;
+	margin-bottom: ;
 	width: 700px;
 	top: 40%;
-	left: 70%;
+	left: 75%;
 	transform: translate(-50%, -50%);
-}*/
+}
 
 .logo {
 	height: 100px;
