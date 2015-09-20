@@ -28,12 +28,12 @@ html {
 }
 
 .row h3 {
-	margin-top: 30px;
+	margin-top: 20px;
 }
 
 section {
 	background-color: #ecf0f1;
-	padding: 80px 0;
+	padding: 40px 0;
 }
 
 
@@ -46,7 +46,7 @@ h3 {
 h1 {
 	margin-top: 0;
 	margin-bottom: 20px;
-	color: #fff;
+	/*color: #fff;*/
 	font-size: 200%;
 	word-spacing: 4px;
 	letter-spacing: 1px;
@@ -146,6 +146,47 @@ header {
 
 p {
 	line-height: 200%;
+	margin: 30px 0;
+}
+
+.george cite {
+	font-style: normal;
+  font-size: 140%;
+  margin-left: 10%;
+}
+
+.george cite img {
+	margin-right: 3%;
+	vertical-align: middle;
+	height: 120px;
+	border-radius: 50%;
+}
+
+.george:after {
+	display: block;
+	height: 2px;
+	background-color: #4aa3df;
+	content: " ";
+	width: 150px;
+	margin: 0 auto;
+	/*margin-top: 30px;*/
+
+}
+
+.kaplan cite {
+	font-style: normal;
+  font-size: 140%;
+  display: block;
+  text-align: right;
+  margin-right: 20%;
+}
+
+.kaplan cite img {
+	margin-left: 3%;
+	vertical-align: middle;
+	height: 120px;
+	border-radius: 50%
+
 }
 
 .projects {
