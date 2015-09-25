@@ -193,3 +193,13 @@ p {
 .projects {
 	background-color: #fff;
 }
+
+footer {
+	color: #fff;
+	text-decoration: none;
+	background-color: #4aa3df;
+}
+
+footer a {
+	text-decoration: none;
+}
